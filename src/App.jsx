@@ -1,7 +1,7 @@
 const App = () => {
 return (
     <div className="contenido-grid">
-    <h1>Hello World</h1>
+    <h1>Hello World.</h1>
     </div>
 );
 };
