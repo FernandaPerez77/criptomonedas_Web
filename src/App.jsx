@@ -1,8 +1,10 @@
+import Formulario from "./components/Formulario";
+import { useState } from "react";
 const App = () => {
 return (
-    <div className="contenido-grid">
-    <h1>Hello World</h1>
-    </div>
+<main className="container">
+    <Formulario/>
+    </main>
 );
 };
 
